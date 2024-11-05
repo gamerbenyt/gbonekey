@@ -1,15 +1,15 @@
 {
-    "keyboard_name": "Onekey KB2040",
+    "keyboard_name": "gbkeeey",
     "development_board": "kb2040",
     "matrix_pins": {
-        "cols": ["GP4"],
-        "rows": ["GP5"]
+        "cols": ["GP11"],
+        "rows": ["GP11"]
     },
     "ws2812": {
         "pin": "GP17",
         "driver": "vendor"
     },
     "features": {
-        "oled": true
+        "oled": false
     }
 }

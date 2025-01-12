@@ -1,0 +1,15 @@
+{
+    "keyboard_name": "Twokey KB2040",
+    "development_board": "kb2040",
+    "matrix_pins": {
+        "cols": ["GP4", "GP2"],
+        "rows": ["GP5", "GP3"]
+    },
+    "ws2812": {
+        "pin": "GP17",
+        "driver": "vendor"
+    },
+    "features": {
+        "oled": false
+    }
+}
